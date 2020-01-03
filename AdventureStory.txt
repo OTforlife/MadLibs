@@ -1,0 +1,1 @@
+There once was a knight named {{name}}. They had armor made of {{food}} and they lived in {{place}}.

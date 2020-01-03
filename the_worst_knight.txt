@@ -1,0 +1,4 @@
+The Worst Knight
+There once was a knight named {{name}}. They had armor made of {{food}} and they lived in {{place}}.
+One day, {{name}} found a {{magic object}}. They said, "{{exclamation}}"! But little did they know that {{magic object}} was cursed! It turned them into a {{animal}}!
+{{name}} truly was...the worst knight.
